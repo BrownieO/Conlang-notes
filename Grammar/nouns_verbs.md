@@ -64,6 +64,7 @@ To make both a noun and verb, append a tense and a gender. E.g. TODO: linguistic
     </tr>
   </tbody>
 </table>
+
 - Imperative: append "aor"
 - Conditional: insert "a"
 - To be: insert "es"
