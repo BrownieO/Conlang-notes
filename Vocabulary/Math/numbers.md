@@ -18,7 +18,7 @@ The digits that form them are:
 - 1000 = Miri
 - 1000000 = Miliar
 
-To form numerals with words, you have to be VERY CAREFUL and follow those rules:
+To form numerals with digit words, you have to be VERY CAREFUL and follow those rules:
 - Figures are read from right to left.
 - Each digit needs a power of ten suffix.
 - Each digit is separated by a space.
