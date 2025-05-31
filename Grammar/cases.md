@@ -7,9 +7,9 @@ This case doesn't exist in Balkeon. TODO: save for the unexplained "em" in "namn
 
 ## Definite and indefinite words
 Words are indefinite by default.
-To make a word definite, if there's a final N, erase it. Then, add an L.
+To make a word definite, erase the final N if present. Then, add an L.
 
-## "Dative"
+## Dative
 The dative case indicates the recipient of an action.
 To achieve this, append "stan".
 
