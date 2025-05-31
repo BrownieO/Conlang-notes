@@ -8,3 +8,4 @@ The full structure is as follows:
 5. Sentence modifier
 
 The list of modifiers is [here](https://www.metroman.me/balkeon/docs/adpositions/).
+
