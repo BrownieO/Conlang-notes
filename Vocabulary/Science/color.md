@@ -1,6 +1,6 @@
 # Colors
 Color is a characterisic of the mind that is described by hue, brightness and colorfulness.
--# Farbeon sir miandeon os kaledeon enkdokasian ruan blisegeon, blasteon ara farbumeon.
+> Farbeon sir miandeon os kaledeon enkdokasian ruan blisegeon, blasteon ara farbumeon.
 
 In Balkeon, some color names include:
 - white = blankeon
