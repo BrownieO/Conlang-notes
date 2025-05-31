@@ -2,7 +2,7 @@
 Roots represent ontological entities. You can combine and suffix them to create words.
 
 ## Root stacking
-Roots are stacked like in germanic languages. E.g.:
+Roots are stacked like in germanic languages. E.g.
 - underground train = ahchuch + train + eon
 - Balkeon learning = Balkeon + lern + ian
 
