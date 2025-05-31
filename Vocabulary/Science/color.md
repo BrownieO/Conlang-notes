@@ -5,10 +5,6 @@ Color is a characterisic of the mind that is described by hue, brightness and co
 In Balkeon, some color names include:
 <table>
   <tbody>
-    <tr style="background-color: black; color: white">
-      <th><strong>English</strong></th>
-      <th><strong>Balkeon</strong></th>
-    </tr>
     <tr>
       <td>White</td>
       <td>Blankeon</td>
@@ -57,7 +53,7 @@ In Balkeon, some color names include:
       <td>Fuchsia</td>
       <td>Tanblastroseon</td>
     </tr>
-    <tr style="background-color: pink; color: black">
+    <tr style="background-color: #ff81c0; color: black">
       <td>Pink</td>
       <td>Roseon</td>
     </tr>
