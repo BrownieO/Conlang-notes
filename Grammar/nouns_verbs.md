@@ -22,12 +22,12 @@ To make both a noun and verb, append a tense and a gender. E.g. TODO: linguistic
 # Vocabulary
 
 ## Gender suffixes
-eon - inanimate or male animal
-ean - female animal
-an - woman
-on - man
-aon - woman or man
-u - deductive
+- eon = inanimate or male animal
+- ean = female animal
+- an = woman
+- on = man
+- aon = woman or man
+- u = deductive
 
 ## Tenses
 <table>
@@ -64,3 +64,7 @@ u - deductive
     </tr>
   </tbody>
 </table>
+- Imperative: append "aor"
+- Conditional: insert "a"
+- To be: insert "es"
+- To be now/Passive mode:  insert "ac" or "est"
