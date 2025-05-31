@@ -3,20 +3,20 @@ Numbers are mathematical objects used to count, measure and label.
 There are two symbols used to denote them: the Arabic numerals, and words such as the cardinal, ordinal and fractional numerals.
 The digits that form them are:
 
-- 0. Naul
-- 1. Uan
-- 2. Chos
-- 3. Tre
-- 4. Kuar
-- 5. Sink
-- 6. Sis
-- 7. Seti
-- 8. Oich
-- 9. Nuef
-- 10. Tek
-- 100. Dien
-- 1000. Miri
-- 1000000. Miliar
+- 0 = Naul
+- 1 = Uan
+- 2 = Chos
+- 3 = Tre
+- 4 = Kuar
+- 5 = Sink
+- 6 = Sis
+- 7 = Seti
+- 8 = Oich
+- 9 = Nuef
+- 10 = Tek
+- 100 = Dien
+- 1000 = Miri
+- 1000000 = Miliar
 
 To form numerals with words, you have to be VERY CAREFUL and follow those rules:
 - Figures are read from right to left.
