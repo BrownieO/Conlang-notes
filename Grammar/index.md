@@ -4,4 +4,4 @@
 3. [Adpositions](/adpositions.md)
 4. [Adverbs](/adverbs.md)
 5. [Cases](/cases.md)
-6. [Syntax](/syntax/basic.md)
+6. [Syntax](/Syntax/basic.md)
