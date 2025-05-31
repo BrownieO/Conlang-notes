@@ -13,8 +13,7 @@ The following rules apply when forming words:
 - For roots that end in a vowel, plus an U: add a B behind the last suffix.
 - Avoid S or L + consonant; collapse the consonants or prepend an E.
 - No thripthongs; insert R's between roots.
-- No similar consonant clusters; C
-collapse them.
+- No similar consonant clusters; Collapse them.
 
 ## Stress
 All words are paroxytone, except when you need to make words distinct. Suffixes are considered syllables for stress.[1]
