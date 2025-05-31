@@ -1,5 +1,5 @@
 # Cases
-Case is indicating the role of a word in a sentence.
+Case means showing the role of a word in a sentence.
 
 ## Accusative and nominative
 Those cases mark the object and the subject of a sentence respectively.
