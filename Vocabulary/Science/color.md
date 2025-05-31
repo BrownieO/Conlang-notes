@@ -21,7 +21,7 @@ In Balkeon, some color names include:
       <td>Black</td>
       <td>Negeon</td>
     </tr>
-    <tr style="background-color: chocolate; color: white">
+    <tr style="background-color: maroon; color: white">
       <td>Brown</td>
       <td>Kafeon</td>
     </tr>
@@ -29,15 +29,15 @@ In Balkeon, some color names include:
       <td>Red</td>
       <td>Roneon</td>
     </tr>
-    <tr style="background-color: orange; color: black">
+    <tr style="background-color: #F66500; color: black">
       <td>Orange</td>
       <td>Orangeon</td>
     </tr>
-    <tr style="background-color: yellow; color: black">
+    <tr style="background-color: #CA9E00; color: black">
       <td>Yellow</td>
       <td>Amareon</td>
     </tr>
-    <tr style="background-color: green; color: white">
+    <tr style="background-color: #00D500; color: black">
       <td>Green</td>
       <td>Grabeon</td>
     </tr>
@@ -45,17 +45,17 @@ In Balkeon, some color names include:
       <td>Blue</td>
       <td>Aoyeon</td>
     </tr>
-    <tr style="background-color: #7b00ff; color: white">
+    <tr style="background-color: #5800EF; color: white">
       <td>Violet</td>
       <td>Onkraiaoyeon</td>
-    </tr>
-    <tr style="background-color: fuchsia; color: white">
-      <td>Fuchsia</td>
-      <td>Tanblastroseon</td>
     </tr>
     <tr style="background-color: purple; color: white">
       <td>Purple</td>
       <td>Purpeon</td>
+    </tr>
+    <tr style="background-color: fuchsia; color: white">
+      <td>Fuchsia</td>
+      <td>Tanblastroseon</td>
     </tr>
     <tr style="background-color: pink; color: black">
       <td>Pink</td>
