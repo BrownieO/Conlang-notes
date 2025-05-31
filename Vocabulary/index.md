@@ -7,16 +7,15 @@
 - [Numbers I](/Math/numbers.md)
 - Numbers II
 - Arithmetic
-- Number theory
 - Geometry
 	- Shapes
 - Set theory
 - Negation
 - [Negation and quantifiers](https://www.metroman.me/en/balkeon/grammar/basiclogic/) (At MetroMan's website)
-- First order logic
+- [First order logic](/Math/bool.md)
 
 ### Exact sciences
 - [Color](/Science/color.md)
-- Animals
 - Elements
 - Radiation
+- Animals
