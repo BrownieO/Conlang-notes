@@ -1,6 +1,6 @@
 # Index for vocabulary
 - [Rationale](/rationale.md)
-- [Full dictionary](https://github.com/MetroManSR/MetroWeb/blob/main/assets/data/spanish-dictionary.csv) (At MetroMan's repo)
+- [Full dictionary](https://github.com/MetroManSR/MetroWeb/blob/main/assets/data/spanish-dictionary.csv) (At MetroMan's repository)
 
 ## Science
 ### Mathematics
@@ -12,7 +12,7 @@
 	- Shapes
 - Set theory
 - Negation
-- [Negation and quantifiers](https://www.metroman.me/en/balkeon/grammar/basiclogic/) (At MetroMan's website. FIXME!)
+- [Negation and quantifiers](https://www.metroman.me/en/balkeon/grammar/basiclogic/) (At MetroMan's website)
 - First order logic
 
 ### Exact sciences
