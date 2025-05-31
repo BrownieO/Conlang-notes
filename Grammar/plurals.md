@@ -1,5 +1,5 @@
 ## Plurals
-To denote many, add an S behind the suffix. E.g.:
+To denote many, add an S behind the suffix. E.g.
 - kanseon = dogs
 - amseon = loves
 
