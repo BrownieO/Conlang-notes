@@ -10,12 +10,14 @@
 - Geometry
 	- Shapes
 - Set theory
-- Negation
-- [Negation and quantifiers](https://www.metroman.me/en/balkeon/grammar/basiclogic/) (At MetroMan's website)
 - [First order logic](/Math/bool.md)
+- [Negation and quantifiers](https://www.metroman.me/en/balkeon/grammar/basiclogic/) (At MetroMan's website)
 
 ### Exact sciences
 - [Color](/Science/color.md)
 - Elements
 - Radiation
 - Animals
+
+## Social sciences
+- Territories
