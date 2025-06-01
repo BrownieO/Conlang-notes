@@ -7,8 +7,7 @@
 - [Numbers I](/Math/numbers.md)
 - Numbers II
 - Arithmetic
-- Geometry
-	- Shapes
+- [Geometry](/Math/geometry.md)
 - Set theory
 - [First order logic](/Math/bool.md)
 - [Negation and quantifiers↗](https://www.metroman.me/en/balkeon/grammar/basiclogic/) (At MetroMan's website)
