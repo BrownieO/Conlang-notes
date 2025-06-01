@@ -22,7 +22,8 @@
 - radius = radiuseon
 
 ## N-gons
-triangle = treyamareon
-square = fremideon
-pentagon = sinkyamareon
-n-gon = n-yamareon
+- circle = rolideon
+- triangle = treyamareon
+- square = fremideon
+- pentagon = sinkyamareon
+- n-gon = n-yamareon
