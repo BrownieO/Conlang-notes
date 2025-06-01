@@ -13,6 +13,9 @@ The digits that form them are:
 - 7 = Seti
 - 8 = Oich
 - 9 = Nuef
+
+And the powers of ten are:
+  
 - 10 = Tek
 - 100 = Dien
 - 1000 = Miri
