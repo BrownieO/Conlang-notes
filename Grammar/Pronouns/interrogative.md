@@ -1,6 +1,6 @@
 # Interrogative pronouns
 Interrogative pronouns are used to ask questions.
-If you affix one, place it at the end of the sentence.
+If you affix one of these pronouns, place it at the end of the sentence.
 
 In Balkeon, the "wh-" questions are:
 <table>
