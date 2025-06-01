@@ -2,3 +2,10 @@
 ---
 
 @import 'jekyll-theme-slate';
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #c9d1d9;
+    background: #0d1117;
+  }
+}
