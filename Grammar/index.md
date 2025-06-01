@@ -9,14 +9,11 @@
 6. [Affixes](/affixes.md)
 7. [Adpositions](/adpositions.md)
 8. [Conjunctions](/conjunctions.md)
-   
-### Pronouns
-1. [Pronouns](Pronouns/pronouns.md)
-2. [Personal pronouns](/Pronouns/personal.md)
-3. [Interrogative pronouns](/Pronouns/interrogative.md)
+9. [Pronouns](Pronouns/index.md)
     
 ## Syntax
 1. [Structure basics](/Syntax/basic.md)
    
 ## Miscellaneous
 1. [Cases](/cases.md)
+2. Clauses
