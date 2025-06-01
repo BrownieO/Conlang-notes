@@ -19,7 +19,7 @@ The digits that form them are:
 - 1000000 = Miliar
 
 To form numerals with digit words, you have to be VERY CAREFUL and follow those rules:
-- Figures are read from right to left.
+- Start with the units.
 - Each digit needs a power of ten suffix.
 - Each digit is separated by a space.
 
@@ -28,5 +28,5 @@ Example: 2024 = kuar chostek chosmiri
 ## Suffixes
 Suffixes go in the rightmost digit.
 - Cardinal numbers have no suffix
-- The ordinal suffix is "yem" or esim.
+- The ordinal suffix is "yem" or "esim".
 - The fractional suffix is "ake". First, write the nominator and denominator. Then, append the suffix.
