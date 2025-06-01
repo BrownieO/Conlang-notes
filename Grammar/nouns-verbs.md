@@ -66,6 +66,6 @@ To make both a noun and verb, append a tense and a gender. E.g. TODO: linguistic
 </table>
 
 - Imperative: append "aor"
-- Conditional: insert "a"
-- To be: insert "es"
-- To be now/Passive mode:  insert "ac" or "est"
+- Conditional: prepend "a"
+- To be: prepend "es"
+- To be now/Passive mode: prepend "ac" or "est"
