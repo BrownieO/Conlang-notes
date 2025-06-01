@@ -1,5 +1,5 @@
 # Cases
-Cases are categories of words based on their role in a sentence. Sometimes, such role is shown with a mark.
+Cases are categories of words based on their role in a sentence. Sometimes, such role is marked with a morhpeme.
 
 ## Accusative and nominative
 Those cases indicate the object and the subject of a sentence respectively. Those cases aren't marked in Balkeon.
