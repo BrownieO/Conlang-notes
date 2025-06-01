@@ -1,4 +1,5 @@
 # Index for grammar
+
 ## Parts of speech
 1. [Roots](/roots.md)
 2. [Nouns and verbs](/nouns-verbs.md)
@@ -7,9 +8,13 @@
 5. [Adverbs](/adverbs.md)
 6. [Affixes](/affixes.md)
 7. [Adpositions](/adpositions.md)
-8. [Personal pronouns](/Pronouns/personal.md)
-9. [Interrogative pronouns](/Pronouns/interrogative.md)
+   
+### Pronouns
+1. [Personal pronouns](/Pronouns/personal.md)
+2. [Interrogative pronouns](/Pronouns/interrogative.md)
+    
 ## Syntax
 1. [Basic](/Syntax/basic.md)
+   
 ## Miscellaneous
 1. [Cases](/cases.md)
