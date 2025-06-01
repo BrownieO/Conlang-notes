@@ -2,7 +2,7 @@
 Cases are categories of words based on their role in a sentence. Sometimes, such role is marked with a morhpeme.
 
 ## Accusative and nominative
-Those cases indicate the object and the subject of a sentence respectively. Those cases aren't marked in Balkeon.
+Those cases indicate the object and the subject of a sentence respectively. They aren't marked in Balkeon.
 
 ## Dative
 The dative case indicates the recipient of an action. Its marker is the suffix "stan".
