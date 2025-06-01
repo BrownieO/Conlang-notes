@@ -4,7 +4,7 @@
 @import 'jekyll-theme-slate';
 
 @media (prefers-color-scheme: dark) {
-  body {
+  #main_content_wrap{
     color: #c9d1d9;
     background: #0d1117;
   }
