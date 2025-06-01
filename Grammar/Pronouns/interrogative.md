@@ -1,5 +1,5 @@
 # Interrogative pronouns
-When asking a question, sometimes you don't have a subject. E.g. wen hop? In those cases, you use an interrogative pronoun.
+Interrogative pronouns are used to ask questions.
 
 In Balkeon, the "wh-" questions are:
 <table>
@@ -38,3 +38,5 @@ In Balkeon, the "wh-" questions are:
       </tr>
    </tbody>
 </table>
+
+You can add affixes to augment their meaning. If you do so, place them at the end of the sentence.
