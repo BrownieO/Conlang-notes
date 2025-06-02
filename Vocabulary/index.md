@@ -14,7 +14,7 @@
 
 ### Exact sciences
 - [Color](/Science/color.md)
-- [Body parts](/Science/body-parts.svg)
+- [Body parts](/Science/anatomy.md)
 - [Elements↗](https://www.metroman.me/balkeon/docs/chemicalelements/) (At MetroMan's website)
 - Radiation
 
