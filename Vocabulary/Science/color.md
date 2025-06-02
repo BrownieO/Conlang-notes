@@ -1,15 +1,15 @@
-# Colors
+# Color
 Color is a characterisic of the mind that is described by hue, brightness and colorfulness.
 > Farbeon sir miandeon os kaledeon enkdokasian ruan blisegeon, blasteon ara farbumeon.
 
 In Balkeon, some color names include:
 <table>
   <tbody>
-    <tr>
+    <tr style="background-color: white; color: black">
       <td>White</td>
       <td>Blankeon</td>
     </tr>
-    <tr style="background-color: gray; color: white">
+    <tr style="background-color: #777777; color: white">
       <td>Grey</td>
       <td>Grayeon</td>
     </tr>
