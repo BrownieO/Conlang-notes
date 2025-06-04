@@ -7,6 +7,7 @@
 - Numbers II
 - [Arithmetic](/Math/arithmetic.md)
 - [Geometry](/Math/geometry.md) (tentative)
+    - Orientation
 - [Set theory](/Math/sets.md)
 - [First order logic](/Math/bool.md) (tentative)
 - [Negation and quantifiers↗](https://www.metroman.me/en/balkeon/grammar/basiclogic/) (At MetroMan's website)
