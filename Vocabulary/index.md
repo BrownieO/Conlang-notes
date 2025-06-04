@@ -5,10 +5,10 @@
 # Mathematics
 - [Numbers I](/Math/numbers.md)
 - Numbers II
-- Arithmetic
-- [Geometry](/Math/geometry.md)
-- Set theory
-- [First order logic](/Math/bool.md)
+- [Arithmetic](/Math/arithmetic.md)
+- [Geometry](/Math/geometry.md) (tentative)
+- [Set theory](/Math/sets.md)
+- [First order logic](/Math/bool.md) (tentative)
 - [Negation and quantifiers↗](https://www.metroman.me/en/balkeon/grammar/basiclogic/) (At MetroMan's website)
 
 # Exact sciences
