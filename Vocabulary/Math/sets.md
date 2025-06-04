@@ -1,5 +1,5 @@
-# Sets - Upseon
-Sets are collections of elements. Their members are named "ambreon".
+# Set theory
+Sets, "upseon", are collections of elements. Their members are named "ambreon".
 
 Sets have the following relationships:
 - subset = inhabestir
