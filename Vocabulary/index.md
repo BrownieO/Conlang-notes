@@ -2,7 +2,7 @@
 - [Rationale](/rationale.md)
 - [Full dictionary↗](https://github.com/MetroManSR/MetroWeb/blob/main/assets/data/spanish-dictionary.csv) (At MetroMan's repository)
 
-# Mathematics
+## Mathematics
 - [Numbers I](/Math/numbers.md)
 - Numbers II
 - [Arithmetic](/Math/arithmetic.md)
@@ -11,12 +11,14 @@
 - [First order logic](/Math/bool.md) (tentative)
 - [Negation and quantifiers↗](https://www.metroman.me/en/balkeon/grammar/basiclogic/) (At MetroMan's website)
 
-# Exact sciences
+## Exact sciences
 - [Color](/Science/color.md)
 - [Body parts](/Science/anatomy.md)
+- Plant parts
 - [Elements↗](https://www.metroman.me/balkeon/docs/chemicalelements/) (At MetroMan's website)
 - Machines
 - Radiation
 
-# Social sciences
+## Social sciences
 - Territories
+- Politics
