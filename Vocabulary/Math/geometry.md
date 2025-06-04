@@ -8,11 +8,11 @@
 ## Lines
 - line = lineon
 - slope = inklenidu
-- y-intercept = y-exfumireon
+- y-intercept = y-tranchideon
 - angle = yamamedeon
-- parallel = saminklenidu
+- parallel = demrastidu
 - perpendicular = plumblinidu
-- intersecting = exfumidu
+- intersecting = demtranchidu
 
 ## Measurements
 - width = ampledeon
