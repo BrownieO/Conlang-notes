@@ -9,3 +9,5 @@ And the following operations:
 - union = oro
 - intersection = ara
 - difference = maen
+- cartesian product = nhan
+- power set = elfnhanupeon
