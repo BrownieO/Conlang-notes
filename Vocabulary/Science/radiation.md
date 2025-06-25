@@ -2,11 +2,11 @@
 Radiation is the remote transmission of energy.
 
 ## Electromagnetic radiation (Yahreon)
-This is waves that combine both an electric and a magnetic field.
+It consists of waves that combine both an electric and a magnetic field.
 Those are named by their wavelength. E.g.:
-- infrared = dakronu
-- visible = biradidu
-- ultraviolet = onkraimorasku
+- infrared = dakroneon
+- visible = biradideon
+- ultraviolet = onkraimoraskeon
 
 ## Particle radiation (Ipaneon)
-This is fast subatomic particles...
+It consists of fast subatomic particles...
