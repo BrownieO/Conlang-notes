@@ -6,7 +6,7 @@
 - [Numbers I](/Math/numbers.md)
 - Numbers II
 - [Arithmetic](/Math/arithmetic.md)
-- [Geometry](/Math/geometry.md) (tentative)
+- [Geometry](/Math/geometry.md)
     - Orientation
 - [Set theory](/Math/sets.md)
 - [First order logic](/Math/bool.md) (tentative)
@@ -19,7 +19,7 @@
 - [Elements↗](https://www.metroman.me/balkeon/docs/chemicalelements/) (At MetroMan's website)
 - [Celestial bodies](/Science/celestial.md)
 - Machines
-- Radiation
+- [Radiation](Science/radiation.md)
 
 ## Social sciences
 - [Regions](/Social/regions.md)
