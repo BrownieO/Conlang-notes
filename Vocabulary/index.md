@@ -15,7 +15,7 @@
 ## Exact sciences
 - [Color](/Science/color.md)
 - [Body parts](/Science/anatomy.md)
-- Plant parts
+- [Plant parts](/Science/plant-parts.md)
 - [Elements↗](https://www.metroman.me/balkeon/docs/chemicalelements/) (At MetroMan's website)
 - [Celestial bodies](/Science/celestial.md)
 - Machines
