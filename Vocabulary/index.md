@@ -17,6 +17,7 @@
 - [Body parts](/Science/anatomy.md)
 - Plant parts
 - [Elements↗](https://www.metroman.me/balkeon/docs/chemicalelements/) (At MetroMan's website)
+- [Celestial bodies](/Science/celestial.md)
 - Machines
 - Radiation
 
