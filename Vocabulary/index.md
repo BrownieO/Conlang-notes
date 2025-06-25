@@ -21,5 +21,5 @@
 - Radiation
 
 ## Social sciences
-- Territories
+- [Regions](/Social/regions.md)
 - Politics
