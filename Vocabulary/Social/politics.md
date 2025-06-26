@@ -1,3 +1,6 @@
+---
+description: Current vocabulary. Rulers and ideologies.
+---
 # Politics
 Politics is when you or others decide how to run a community.
 
