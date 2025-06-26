@@ -10,4 +10,4 @@ Roots are stacked like in germanic languages. E.g.
 Roots can be static or dynamic, like "dog" or "love". However, by adding a suffix, you can convert every root into a noun, verb or both.
 
 ## Vocabulary
-- The vocabulary section is [here](/Vocabulary).
+- The vocabulary section is [here](/Vocabulary/index.md).
