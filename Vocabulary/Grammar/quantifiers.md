@@ -4,10 +4,10 @@ Quantifiers are roots that indicate amount. They are:
 - part = at least some
 - half = exactly 50%
 
-When used as root, their meaning depends on the next word:
-- before root: quality
-- before "em": quantity
-- before gender: concept
+When used as root, their meaning depends on the next root:
+- root: quality
+- "em": quantity
+- gender: concept
 
 Example:
 - tut + manon = wholly man
