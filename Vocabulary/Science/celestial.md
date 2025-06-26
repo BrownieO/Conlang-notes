@@ -1,8 +1,12 @@
+---
+description: Merkurien, Benusien, Ertsien, Eufiten, Saturnien, Uranien, Neptunien, Plutien.
+---
+
 # Celestial bodies
 Celestial bodies are those that float in the outer space.
 
 ## Stars (Estrelseon)
-Stars are huge balls of glowing plasma. In Balkeon, our star is named "Soreon".
+Stars are huge balls of glowing plasma. In Balkeon, our star is named **"Soreon"**.
 
 ## Planets (Planetseon)
 Planets are large bodies that float around stars.
@@ -18,4 +22,4 @@ The planets of our solar system include:
 - Pluto = Plutien
 
 ## Satellites (Munseon)
-Satellites are smaller bodies that float around planets. Our natural satellite is named "Muneon".
+Satellites are smaller bodies that float around planets. Our natural satellite is named **"Muneon"**.
