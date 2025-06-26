@@ -1,6 +1,6 @@
 # Conjunctions
-Conjunctions are parts of speech that connect words or groups of words.
+Conjunctions are parts of speech that connect the words or groups of words around them.
 
-All conjunctions are on [MetroMan’s website](https://www.metroman.me/en/balkeon/docs/conjunctions/).
+The most used conjunctions are "ara" (and) and "oro" (or).
 
-Boolean connectives have their own [vocabulary page](https://brownieo.github.io/Balkeon-notes/Vocabulary/Math/bool.html).
+More conjunctions are available on [MetroMan’s website](https://metromansr.github.io/MetroWeb/balkeon/docs/conjunctions/) and in the [boolean connective page](https://brownieo.github.io/Balkeon-notes/Vocabulary/Math/bool.html).
