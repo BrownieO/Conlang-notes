@@ -1,4 +1,4 @@
 ## Adjectives
-To convert a noun into an adjective, insert the particle "id". E.g.
+To convert a noun into an adjective, insert the particle "id". You can also use the deductive gender "u". E.g.
 - kanideon = canine
-- amideon = loving
+- amidu = loving
