@@ -23,4 +23,4 @@
 
 ## Social sciences
 - [Regions](/Social/regions.md)
-- Politics
+- [Politics](/Social/politics.md)
