@@ -2,6 +2,10 @@
 - [Rationale](/rationale.md)
 - [Full dictionary↗](https://github.com/MetroManSR/MetroWeb/blob/main/assets/data/spanish-dictionary.csv) (In spanish, at MetroMan's repository)
 
+## Grammar
+- [Negation and opposites](/Grammar/nek-tan.md)
+- [Quantifiers](/Grammar/quantifiers.md)
+
 ## Mathematics
 - [Numbers I](/Math/numbers.md)
 - Numbers II
@@ -10,7 +14,6 @@
     - Orientation
 - [Set theory](/Math/sets.md)
 - [First order logic](/Math/bool.md) (tentative)
-- [Negation and quantifiers](/Math/quantifiers.md)
 
 ## Exact sciences
 - [Color](/Science/color.md)
