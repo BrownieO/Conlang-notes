@@ -3,6 +3,9 @@
 
 @import 'jekyll-theme-slate';
 
+.blind-only {
+  opacity: 0;
+}
 @media (prefers-color-scheme: dark) {
   #main_content_wrap{
     color: #c9d1d9;
