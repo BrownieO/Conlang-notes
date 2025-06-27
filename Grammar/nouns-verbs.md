@@ -1,3 +1,6 @@
+---
+description: Nouns have a gender suffix. Verbs have a tense.
+---
 ## Nouns
 To make a noun, append a gender suffix. E.g.
 - kan + eon = dog
@@ -43,29 +46,31 @@ To make both a noun and verb, append a tense and a gender. E.g. TODO: linguistic
   <tbody>
     <tr>
       <td>Past</td>
-      <td>ip</td>
-      <td>ingip</td>
-      <td>ipo</td>
-      <td>inkip</td>
+      <td translate="no">ip</td>
+      <td translate="no">ingip</td>
+      <td translate="no">ipo</td>
+      <td translate="no">inkip</td>
     </tr>
     <tr>
       <td>Present</td>
-      <td>ir</td>
-      <td>ingir</td>
-      <td>iro</td>
-      <td>inkir</td>
+      <td translate="no">ir</td>
+      <td translate="no">ingir</td>
+      <td translate="no">iro</td>
+      <td translate="no">inkir</td>
     </tr>
     <tr>
       <td>Future</td>
-      <td>ib</td>
-      <td>ingib</td>
-      <td>ibo</td>
-      <td>inkib</td>
+      <td translate="no">ib</td>
+      <td translate="no">ingib</td>
+      <td translate="no">ibo</td>
+      <td translate="no">inkib</td>
     </tr>
   </tbody>
 </table>
 
-- Imperative: append "aor"
+- Infinitive: "ian"
+- Dictionary infinitive: "irian"
+- Imperative: "aor"
 - Conditional: prepend "a"
 - To be: prepend "es"
 - To be now/Passive mode: prepend "ac" or "est"
