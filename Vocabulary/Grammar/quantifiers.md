@@ -4,15 +4,20 @@ Quantifiers are roots that indicate amount. They are:
 - part = at least some
 - half = exactly 50%
 
-When used as root, their meaning depends on the next root:
-- root: quality
+Their meaning depends on the next root:
 - "em": quantity
-- gender: concept
+- other roots: quality
+- gender: the concept
 
 Example:
 - tut + manon = wholly man
-- tut + manideon = wholly masculine
+- tut + manidu = wholly masculine
 - tut + em + manson = every man
 - manon os tuteon = the whole of a man
 
-You can prepend "tan" to get false quantifiers. Nek + half means not exactly half.
+You can prepend "tan" to get negated quantifiers:
+- tantut: not at all
+- tanpart: at least some isn't
+- tanhalf: 50% isn't
+
+Finally, nek + half means not exactly half.
