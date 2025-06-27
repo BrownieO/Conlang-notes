@@ -6,14 +6,14 @@ Continents are the major landmasses. Their number varies by culture and they hav
 
 The following continent names are included:
 
-- America = Ameriken
-- Artic = Artikien
-- Antartica = Antartikien
-- Africa = Afriken
-- Europe = Europen
-- Asia = Asien
-- Australia = Ostralien
-- Oceania = Haiyanien
+- America = Ameriken.
+- Antartica = Antartikien.
+  - Artic = Artikien.
+- Africa = Afriken.
+- Europe = Europen.
+- Asia = Asien.
+- Australia = Ostralien.
+- Oceania = Haiyanien.
 
 ## Countries (Pasneon)
 Countries are smaller political units. To form their name, append "en" to their endonym or an exonym.

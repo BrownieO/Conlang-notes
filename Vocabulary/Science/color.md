@@ -67,14 +67,14 @@ In Balkeon, some color names include:
 Color terms include:
 
 ### Hue - Blisegeon
-- bluish green = malk + aoy + grab + eon
-- greenish blue = malk + grab + aoy + eon
+- bluish green = malk + aoy + grab + eon.
+- greenish blue = malk + grab + aoy + eon.
 
 ### Brightness - Blasteon 
-- bright = blastideon
-- dark = tanblastideon
+- bright = blastideon.
+- dark = tanblastideon.
 
 ### Colorfulness - Farbumeon
-- colorful = farbumideon
-- not colorful = farbekideon
+- colorful = farbumideon.
+- not colorful = farbekideon.
 - devoid of hue = farbnekideon?

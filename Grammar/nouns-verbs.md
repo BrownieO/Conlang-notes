@@ -3,34 +3,34 @@ description: Nouns have a gender suffix. Verbs have a tense.
 ---
 ## Nouns
 To make a noun, append a gender suffix. E.g.
-- kan + eon = dog
-- kan + aon = female dog
-- am + eon = love
-- am + on = male lover
+- kan + eon = dog.
+- kan + aon = female dog.
+- am + eon = love.
+- am + on = male lover.
     - Note: human genders imply a human.
 
 ## Verbs
 To make a verb, append a tense. E.g.
-- am + ian = to love
-- am + ir = loves
-- kan + ian = to dog
-- kan + ir = dogs
+- am + ian = to love.
+- am + ir = loves.
+- kan + ian = to dog.
+- kan + ir = dogs.
 
 ## Both noun and verb
 To make both a noun and verb, append a tense and a gender. E.g. TODO: linguistic term
-- am + ir + eon = the loving
-- am + dog + eon = the dogging
-- am + ir + aon = person who is loving
+- am + ir + eon = the loving.
+- am + dog + eon = the dogging.
+- am + ir + aon = person who is loving.
 
 # Vocabulary
 
 ## Gender suffixes
-- eon = inanimate or male animal
-- ean = female animal
-- an = woman
-- on = man
-- aon = woman or man
-- u = deductive
+- eon = inanimate or male animal.
+- ean = female animal.
+- an = woman.
+- on = man.
+- aon = woman or man.
+- u = deductive.
 
 ## Tenses
 <table>
@@ -68,9 +68,9 @@ To make both a noun and verb, append a tense and a gender. E.g. TODO: linguistic
   </tbody>
 </table>
 
-- Infinitive: "ian"
-- Dictionary infinitive: "irian"
-- Imperative: "aor"
-- Conditional: prepend "a"
-- To be: prepend "es"
-- To be now/Passive mode: prepend "ac" or "est"
+- Infinitive: "ian".
+- Dictionary infinitive: "irian".
+- Imperative: "aor".
+- Conditional: prepend "a".
+- To be: prepend "es".
+- To be now/Passive mode: prepend "ac" or "est".
