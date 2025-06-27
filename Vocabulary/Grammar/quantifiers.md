@@ -1,3 +1,6 @@
+---
+description: The roots tut, part and half indicate quantity before "em" and quality before other root.
+---
 # Quantifiers
 Quantifiers are roots that indicate amount. They are:
 - tut = wholly
