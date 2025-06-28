@@ -17,7 +17,7 @@ Examples:
 ## Quantifiers
 - Tut = every<span class="blind-only">.</span>
 - Part = at least one<span class="blind-only">.</span>
-- Half = exactly 50<span class="blind-only">.</span>
+- Half = exactly 50%<span class="blind-only">.</span>
   
 ### Usage
 Add a quantifier to the start of a word to create meaning.
