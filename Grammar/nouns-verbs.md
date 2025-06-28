@@ -3,34 +3,34 @@ description: Nouns have a gender suffix. Verbs have a tense.
 ---
 ## Nouns
 To make a noun, append a gender suffix. E.g.
-- kan + eon = dog.
-- kan + aon = female dog.
-- am + eon = love.
-- am + on = male lover.
-    - Note: human genders imply a human.
+- kan + eon = dog<span class="blind-only">.</span>
+- kan + aon = female dog<span class="blind-only">.</span>
+- am + eon = love<span class="blind-only">.</span>
+- am + on = male lover<span class="blind-only">.</span>
+    - Note: human genders imply a human<span class="blind-only">.</span>
 
 ## Verbs
 To make a verb, append a tense. E.g.
-- am + ian = to love.
-- am + ir = loves.
-- kan + ian = to dog.
-- kan + ir = dogs.
+- am + ian = to love<span class="blind-only">.</span>
+- am + ir = loves<span class="blind-only">.</span>
+- kan + ian = to dog<span class="blind-only">.</span>
+- kan + ir = dogs<span class="blind-only">.</span>
 
 ## Both noun and verb
 To make both a noun and verb, append a tense and a gender. E.g. TODO: linguistic term
-- am + ir + eon = the loving.
-- am + dog + eon = the dogging.
-- am + ir + aon = person who is loving.
+- am + ir + eon = the loving<span class="blind-only">.</span>
+- am + dog + eon = the dogging<span class="blind-only">.</span>
+- am + ir + aon = person who is loving<span class="blind-only">.</span>
 
 # Vocabulary
 
 ## Gender suffixes
-- eon = inanimate or male animal.
-- ean = female animal.
-- an = woman.
-- on = man.
-- aon = woman or man.
-- u = deductive.
+- eon = inanimate or male animal<span class="blind-only">.</span>
+- ean = female animal<span class="blind-only">.</span>
+- an = woman<span class="blind-only">.</span>
+- on = man<span class="blind-only">.</span>
+- aon = woman or man<span class="blind-only">.</span>
+- u = deductive<span class="blind-only">.</span>
 
 ## Tenses
 <table>
@@ -68,9 +68,9 @@ To make both a noun and verb, append a tense and a gender. E.g. TODO: linguistic
   </tbody>
 </table>
 
-- Infinitive: "ian".
-- Dictionary infinitive: "irian".
-- Imperative: "aor".
-- Conditional: prepend "a".
-- To be: prepend "es".
-- To be now/Passive mode: prepend "ac" or "est".
+- Infinitive: "ian"<span class="blind-only">.</span>
+- Dictionary infinitive: "irian"<span class="blind-only">.</span>
+- Imperative: "aor"<span class="blind-only">.</span>
+- Conditional: prepend "a"<span class="blind-only">.</span>
+- To be: prepend "es"<span class="blind-only">.</span>
+- To be now/Passive mode: prepend "ac" or "est"<span class="blind-only">.</span>
