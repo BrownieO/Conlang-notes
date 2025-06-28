@@ -5,10 +5,10 @@ description: Merkurien, Benusien, Ertsien, Eufiten, Saturnien, Uranien, Neptunie
 # Celestial bodies
 Celestial bodies are those that float in the outer space.
 
-## Stars (Estrelseon)
+## Stars <span translate="no" lang="es">(Estrelseon)</span>
 Stars are huge balls of glowing plasma. In Balkeon, our star is named <span translate="no" lang="es"><b>"Soreon"</b></span>.
 
-## Planets (Planetseon)
+## Planets <span translate="no" lang="es">(Planetseon)</span>
 Planets are large bodies that float around stars.
 
 The planets of our solar system include:
@@ -21,5 +21,5 @@ The planets of our solar system include:
 - Neptune = <span translate="no" lang="es">Neptunien</span><span class="blind-only">.</span>
 - Pluto = <span translate="no" lang="es" >Plutien</span><span class="blind-only">.</span>
 
-## Satellites (Munseon)
+## Satellites <span translate="no" lang="es">(Munseon)</span>
 Satellites are smaller bodies that float around planets. Our natural satellite is named <span translate="no" lang="es" ><b>"Muneon"</b></span>.
