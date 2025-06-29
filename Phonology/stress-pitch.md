@@ -10,4 +10,4 @@ All words are paroxytone, except when you need to make words distinct. Suffixes 
 Bjornsdottirs proposes rising pitch on the stressed syllable and falling pitch at the next one.[1] WIP
 
 ## References
-1. <https://fictionlab.umbrellix.net./assorted/balkeon/elparolado>
+1. <a href = "https://fictionlab.umbrellix.net./assorted/balkeon/elparolado">Bjornsdottirs' website</a>
