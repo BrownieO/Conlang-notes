@@ -6,8 +6,8 @@ Roots represent ontological entities. You can combine and suffix them to create 
 
 ## Root stacking
 Roots are stacked like in germanic languages. E.g.
-- underground train = ah + chuch + <span translate="no" lang="es">train</span> + <span translate="no" lang="es">eon</span><span class="blind-only">.</span>
-- Balkeon learning = <span translate="no" lang="es">Balkeon</span> + <span translate="no" lang="es">lern</span> + ian<span class="blind-only">.</span>
+- underground train = ah + chuch + <span translate="no" lang="es">train</span> + <span translate="no" lang="es">eon</span>
+- Balkeon learning = <span translate="no" lang="es">Balkeon</span> + <span translate="no" lang="es">lern</span> + ian
 
 ## Suffixation
 Roots can be static or dynamic, like "dog" or "love". However, by adding a suffix, you can convert every root into a noun, verb or both.

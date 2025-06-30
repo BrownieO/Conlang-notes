@@ -3,24 +3,24 @@ description: The roots tut, part and half indicate quantity before "em" and qual
 ---
 # Quantifiers
 Quantifiers are roots that indicate amount. They are:
-- tut = wholly<span class="blind-only">.</span>
-- part = at least some<span class="blind-only">.</span>
-- half = exactly 50%<span class="blind-only">.</span>
+- tut = wholly
+- part = at least some
+- half = exactly 50%
 
 Their meaning depends on the next root:
-- "em": quantity<span class="blind-only">.</span>
-- other roots: quality<span class="blind-only">.</span>
-- gender: the concept<span class="blind-only">.</span>
+- "em": quantity
+- other roots: quality
+- gender: the concept
 
 Example:
-- tut + manon = wholly man<span class="blind-only">.</span>
-- tut + manidu = wholly masculine<span class="blind-only">.</span>
-- tut + em + manson = every man<span class="blind-only">.</span>
-- manon os tuteon = the whole of a man<span class="blind-only">.</span>
+- tut + manon = wholly man
+- tut + manidu = wholly masculine
+- tut + em + manson = every man
+- manon os tuteon = the whole of a man
 
 You can prepend "tan" to get negated quantifiers:
-- tantut: not at all<span class="blind-only">.</span>
-- tanpart: at least some isn't<span class="blind-only">.</span>
-- tanhalf: 50% isn't<span class="blind-only">.</span>
+- tantut: not at all
+- tanpart: at least some isn't
+- tanhalf: 50% isn't
 
 Finally, nek + half means not exactly half.

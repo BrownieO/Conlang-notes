@@ -4,12 +4,12 @@ description: Nouns have a gender suffix. Verbs have a tense.
 ## Nouns
 To make a noun, append a gender suffix. E.g.
 <ul>
-  <li><span translate="no" lang="es">kan</span> + <span translate="no" lang="es">eon</span> = dog<span class="blind-only">.</span></li>
-  <li><span translate="no" lang="es">kan</span> + <span translate="no" lang="es">aon</span> = female dog<span class="blind-only">.</span></li>
-  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">eon</span> = love<span class="blind-only">.</span></li>
-  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">on</span> = male lover<span class="blind-only">.</span>
+  <li><span translate="no" lang="es">kan</span> + <span translate="no" lang="es">eon</span> = dog</li>
+  <li><span translate="no" lang="es">kan</span> + <span translate="no" lang="es">aon</span> = female dog</li>
+  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">eon</span> = love</li>
+  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">on</span> = male lover
     <ul>
-      <li>Note: human genders imply a human<span class="blind-only">.</span></li>
+      <li>Note: human genders imply a human</li>
     </ul>
   </li>
 </ul>
@@ -17,29 +17,29 @@ To make a noun, append a gender suffix. E.g.
 ## Verbs
 To make a verb, append a tense. E.g.
 <ul>
-  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">ian</span> = to love<span class="blind-only">.</span></li>
-  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">ir</span> = loves<span class="blind-only">.</span></li>
-  <li><span translate="no" lang="es">kan</span> + <span translate="no" lang="es">ian</span> = to dog<span class="blind-only">.</span></li>
-  <li><span translate="no" lang="es">kan</span> + <span translate="no" lang="es">ir</span> = dogs<span class="blind-only">.</span></li>
+  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">ian</span> = to love</li>
+  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">ir</span> = loves</li>
+  <li><span translate="no" lang="es">kan</span> + <span translate="no" lang="es">ian</span> = to dog</li>
+  <li><span translate="no" lang="es">kan</span> + <span translate="no" lang="es">ir</span> = dogs</li>
 </ul>
 
 ## Both noun and verb
 To make both a noun and verb, append a tense and a gender. E.g. TODO: linguistic term
 <ul>
-  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">ir</span> + <span translate="no" lang="es">eon</span> = the loving<span class="blind-only">.</span></li>
-  <li><span translate="no" lang="es">dog</span> + <span translate="no" lang="es">ir</span> + <span translate="no" lang="es">eon</span> = the dogging<span class="blind-only">.</span></li>
-  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">ir</span> + <span translate="no" lang="es">aon</span> = person who loves<span class="blind-only">.</span></li>
+  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">ir</span> + <span translate="no" lang="es">eon</span> = the loving</li>
+  <li><span translate="no" lang="es">dog</span> + <span translate="no" lang="es">ir</span> + <span translate="no" lang="es">eon</span> = the dogging</li>
+  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">ir</span> + <span translate="no" lang="es">aon</span> = person who loves</li>
 </ul>
 
 # Vocabulary
 
 ## Gender suffixes
-- <span translate="no" lang="es">eon</span> = inanimate or male animal<span class="blind-only">.</span>
-- <span translate="no" lang="es">ean</span> = female animal<span class="blind-only">.</span>
-- <span translate="no" lang="es">an</span> = woman<span class="blind-only">.</span>
-- <span translate="no" lang="es">on</span> = man<span class="blind-only">.</span>
-- <span translate="no" lang="es">aon</span> = woman or man<span class="blind-only">.</span>
-- <span translate="no" lang="es">u</span> = deductive<span class="blind-only">.</span>
+- <span translate="no" lang="es">eon</span> = inanimate or male animal
+- <span translate="no" lang="es">ean</span> = female animal
+- <span translate="no" lang="es">an</span> = woman
+- <span translate="no" lang="es">on</span> = man
+- <span translate="no" lang="es">aon</span> = woman or man
+- <span translate="no" lang="es">u</span> = deductive
 
 ## Tenses
 <table>
@@ -77,9 +77,9 @@ To make both a noun and verb, append a tense and a gender. E.g. TODO: linguistic
   </tbody>
 </table>
 
-- Infinitive: <span translate="no" lang="es">"ian"</span><span class="blind-only">.</span>
-- Dictionary infinitive: <span translate="no" lang="es">"irian"</span><span class="blind-only">.</span>
-- Imperative: <span translate="no" lang="es">"aor"</span><span class="blind-only">.</span>
-- Conditional: prepend <span translate="no" lang="es">"a"</span><span class="blind-only">.</span>
-- To be: prepend <span translate="no" lang="es">"es"</span><span class="blind-only">.</span>
-- To be now/Passive mode: prepend <span translate="no" lang="es">"ac"</span> or <span translate="no" lang="es">"est"</span><span class="blind-only">.</span>
+- Infinitive: <span translate="no" lang="es">"ian"</span>
+- Dictionary infinitive: <span translate="no" lang="es">"irian"</span>
+- Imperative: <span translate="no" lang="es">"aor"</span>
+- Conditional: prepend <span translate="no" lang="es">"a"</span>
+- To be: prepend <span translate="no" lang="es">"es"</span>
+- To be now/Passive mode: prepend <span translate="no" lang="es">"ac"</span> or <span translate="no" lang="es">"est"</span>
