@@ -8,7 +8,7 @@
 
 ## Mathematics
 - [Numbers Ⅰ](/Math/numbers.md)
-- Numbers Ⅱ.
+- Numbers Ⅱ
 - [Arithmetic](/Math/arithmetic.md)
 - [Geometry](/Math/geometry.md)
     - Orientation
