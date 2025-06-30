@@ -3,24 +3,33 @@ description: Nouns have a gender suffix. Verbs have a tense.
 ---
 ## Nouns
 To make a noun, append a gender suffix. E.g.
-- <span translate="no" lang="es">kan + eon</span> = dog<span class="blind-only">.</span>
-- <span translate="no" lang="es">kan + aon</span> = female dog<span class="blind-only">.</span>
-- <span translate="no" lang="es">am + eon</span> = love<span class="blind-only">.</span>
-- <span translate="no" lang="es">am + on</span> = male lover<span class="blind-only">.</span>
-    - Note: human genders imply a human<span class="blind-only">.</span>
+<ul>
+  <li><span translate="no" lang="es">kan</span> + <span translate="no" lang="es">eon</span> = dog<span class="blind-only">.</span></li>
+  <li><span translate="no" lang="es">kan</span> + <span translate="no" lang="es">aon</span> = female dog<span class="blind-only">.</span></li>
+  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">eon</span> = love<span class="blind-only">.</span></li>
+  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">on</span> = male lover<span class="blind-only">.</span>
+    <ul>
+      <li>Note: human genders imply a human<span class="blind-only">.</span></li>
+    </ul>
+  </li>
+</ul>
 
 ## Verbs
 To make a verb, append a tense. E.g.
-- <span translate="no" lang="es">am + ian</span> = to love<span class="blind-only">.</span>
-- <span translate="no" lang="es">am + ir</span> = loves<span class="blind-only">.</span>
-- <span translate="no" lang="es">kan + ian</span> = to dog<span class="blind-only">.</span>
-- <span translate="no" lang="es">kan + ir</span> = dogs<span class="blind-only">.</span>
+<ul>
+  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">ian</span> = to love<span class="blind-only">.</span></li>
+  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">ir</span> = loves<span class="blind-only">.</span></li>
+  <li><span translate="no" lang="es">kan</span> + <span translate="no" lang="es">ian</span> = to dog<span class="blind-only">.</span></li>
+  <li><span translate="no" lang="es">kan</span> + <span translate="no" lang="es">ir</span> = dogs<span class="blind-only">.</span></li>
+</ul>
 
 ## Both noun and verb
 To make both a noun and verb, append a tense and a gender. E.g. TODO: linguistic term
-- <span translate="no" lang="es">am + ir + eon</span> = the loving<span class="blind-only">.</span>
-- <span translate="no" lang="es">am + dog + eon</span> = the dogging<span class="blind-only">.</span>
-- <span translate="no" lang="es">am + ir + aon</span> = person who is loving<span class="blind-only">.</span>
+<ul>
+  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">ir</span> + <span translate="no" lang="es">eon</span> = the loving<span class="blind-only">.</span></li>
+  <li><span translate="no" lang="es">dog</span> + <span translate="no" lang="es">ir</span> + <span translate="no" lang="es">eon</span> = the dogging<span class="blind-only">.</span></li>
+  <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">ir</span> + <span translate="no" lang="es">aon</span> = person who loves<span class="blind-only">.</span></li>
+</ul>
 
 # Vocabulary
 
