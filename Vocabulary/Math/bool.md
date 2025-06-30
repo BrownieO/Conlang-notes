@@ -1,8 +1,8 @@
 # First order logic
 First order logic deals with propositions that are either true or false.
 You can create composite propositions using the following connectives:
-- both = ara<span class="blind-only">.</span>
-- one or both = oro<span class="blind-only">.</span>
+- both = ara
+- one or both = oro
 - is equivalent = ekualber?
 
 You can also negate a proposition by prepending "nek".
