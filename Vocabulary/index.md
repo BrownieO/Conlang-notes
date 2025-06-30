@@ -7,8 +7,8 @@
 - [Quantifiers](Grammar/quantifiers.md)<span class="blind-only">.</span>
 
 ## Mathematics
-- [NumbersⅠ](/Math/numbers.md)<span class="blind-only">.</span>
-- NumbersⅡ.
+- [Numbers Ⅰ](/Math/numbers.md)<span class="blind-only">.</span>
+- Numbers Ⅱ.
 - [Arithmetic](/Math/arithmetic.md)<span class="blind-only">.</span>
 - [Geometry](/Math/geometry.md)<span class="blind-only">.</span>
     - Orientation<span class="blind-only">.</span>
