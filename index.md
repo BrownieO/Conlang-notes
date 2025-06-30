@@ -1,6 +1,6 @@
 # Laconic Balkeon Notes
 ## Introduction
-{% balkeon Balkeon %}is a constructed language created by MetroMan, a Chilean translator, amateur artist and worker at Metro. He went for the Babelian approach and borrowed words from many languages of the world (for non-core words at least).
+Balkeon is a constructed language created by MetroMan, a Chilean translator, amateur artist and worker at Metro. He went for the Babelian approach and borrowed words from many languages of the world (for non-core words at least).
 In this website, we will do a brief overview of this conlang.
 
 <blockquote>
