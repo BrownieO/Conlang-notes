@@ -1,5 +1,5 @@
 # Adverbs
 Adverbs answer a question about a word or sentence.
-To make an adverb, append "in". To make an independent adverb, append "un". E.g.
-- fastin = quickly<span class="blind-only">.</span>
-- sadun = sadly<span class="blind-only">.</span>
+To make an adverb, append "<span translate="no" lang="es">in</span>". To make an independent adverb, append "<span translate="no" lang="es">un</span>". E.g.
+- <span translate="no" lang="es">fastin</span> = quickly<span class="blind-only">.</span>
+- <span translate="no" lang="es">sadun</span> = sadly<span class="blind-only">.</span>
