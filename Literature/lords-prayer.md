@@ -1,4 +1,4 @@
-# The Lord's Prayer - Lafordonos Priereon
+# The Lord's Prayer - <span translate="no" lang="es">Lafordonos Priereon</span>
 <p>Translated by <strong>MetroMan</strong></p>
 <p translate="no" lang="es">Sayeos Fiton, kua sir un Himeleon kamaor<br>
 Yuos nameon saor santidu<br>
