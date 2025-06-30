@@ -45,7 +45,7 @@ To make both a noun and verb, append a tense and a gender. E.g. TODO: linguistic
 <table>
   <thead>
     <tr>
-      <th>&nbsp;</th>
+      <th></th>
       <th>Simple</th>
       <th>Continuous</th>
       <th>Perfect</th>
