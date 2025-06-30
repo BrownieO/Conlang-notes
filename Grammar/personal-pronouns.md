@@ -1,14 +1,14 @@
 # Personal pronouns
 Personal pronouns can replace any noun.
 
-Any gender root denotes a third person pronoun. An "ay" suffix switches it to first person, while an S at the leftmost position indicates plurality.
+Any gender root denotes a third person pronoun. An "<span translate="no" lang="es">ay</span>" prefix switches it to first person, while an S at the leftmost position indicates plurality.
 
 The genders are:
-- e = general<span class="blind-only">.</span>
-- yo = man<span class="blind-only">.</span>
-- ya = woman<span class="blind-only">.</span>
-- yao = man and woman<span class="blind-only">.</span>
-- eo = male animal/inanimate<span class="blind-only">.</span>
-- ea = female animal<span class="blind-only">.</span>
+- <span translate="no" lang="es">e</span> = general<span class="blind-only">.</span>
+- <span translate="no" lang="es">a</span> = woman<span class="blind-only">.</span>
+- <span translate="no" lang="es">o</span> = man<span class="blind-only">.</span>
+- <span translate="no" lang="es">ao</span> = man and woman<span class="blind-only">.</span>
+- <span translate="no" lang="es">ea</span> = female animal<span class="blind-only">.</span>
+- <span translate="no" lang="es">eo</span> = male animal/inanimate<span class="blind-only">.</span>
 
-and the only second person pronoun is "yu" (you).
+and the only second person pronoun is "<span translate="no" lang="es">yu</span>" (you).
