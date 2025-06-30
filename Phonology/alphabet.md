@@ -1,5 +1,5 @@
 # Alphabet
-Balkeon uses part of the Spanish alphabet. The excluded letters are J, Q, Ñ, W and V.
+Balkeon uses part of the Spanish alphabet. The excluded letters are J, Ñ, Q, Rr, W and V.
 
 The options for affricates are:
 <ul>
