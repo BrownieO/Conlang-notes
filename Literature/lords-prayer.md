@@ -1,6 +1,5 @@
 # The Lord's Prayer - Lafordonos Priereon
 <p>Translated by <strong>MetroMan</strong></p>
-<br>
 <p>Sayeos Fiton, kua sir un Himeleon kamaor<br>
 Yuos nameon saor santidu<br>
 Yuos royulandeon kamaor<br>
