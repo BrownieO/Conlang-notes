@@ -1,2 +1,2 @@
 # Balkeon-notes
-Everything about MetroMan's conlang in laconic style.
+This is a summary of the conlang created by MetroMan.
