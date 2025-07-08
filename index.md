@@ -14,4 +14,4 @@ The full breakdown will be available at [MetroMan's website](https://www.metroma
 - [Phonology](Phonology/index.md)
 - [Grammar](Grammar/index.md)
 - [Vocabulary](Vocabulary/index.md)
-- [Literature](Literature/index.md)
+- [Sample texts](Literature/index.md)
