@@ -23,8 +23,8 @@ To make a verb, append a tense. E.g.
   <li><span translate="no" lang="es">kan</span> + <span translate="no" lang="es">ir</span> = dogs</li>
 </ul>
 
-## Both noun and verb
-To make both a noun and verb, append a tense and a gender. E.g. TODO: linguistic term
+## Verbal nouns
+To make a noun about a verb, append a tense and a gender. E.g. TODO: linguistic term
 <ul>
   <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">ir</span> + <span translate="no" lang="es">eon</span> = the loving</li>
   <li><span translate="no" lang="es">dog</span> + <span translate="no" lang="es">ir</span> + <span translate="no" lang="es">eon</span> = the dogging</li>
