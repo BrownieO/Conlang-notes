@@ -1,6 +1,9 @@
+---
+description: Prepositions end with L. You can also do postpositions and suffixes.
+---
 # Adpositions
 Adpositions show a physical or non-physical relationship between two words. You can place them before, after or appendded to a word.
-If the adposition is behind a word, you can end it with an L or "<span translate="no" lang="es">el</span>".
+Prepositions, like definite words, end with an L, or "<span translate="no" lang="es">el</span>" per phonotactics.
 The most common adpositions are:
 - of = <span translate="no" lang="es">os</span>
 - inside = <span translate="no" lang="es">in</span>
