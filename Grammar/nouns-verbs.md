@@ -1,8 +1,8 @@
 ---
-description: Nouns have a gender suffix. Verbs have a tense.
+description: Nouns have a gender suffix, plus an N. Verbs have a tense suffix.
 ---
 ## Nouns
-To make a noun, append a gender suffix. E.g.
+To make a noun, append a gender suffix, plus an N. E.g.
 <ul>
   <li><span translate="no" lang="es">kan</span> + <span translate="no" lang="es">eon</span> = dog</li>
   <li><span translate="no" lang="es">kan</span> + <span translate="no" lang="es">aon</span> = female dog</li>
@@ -24,7 +24,7 @@ To make a verb, append a tense. E.g.
 </ul>
 
 ## Verbal nouns
-To make a noun about a verb, append a tense and a gender. E.g. TODO: linguistic term
+To make a noun about a verb, append a tense and a gender. E.g.
 <ul>
   <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">ir</span> + <span translate="no" lang="es">eon</span> = the loving</li>
   <li><span translate="no" lang="es">dog</span> + <span translate="no" lang="es">ir</span> + <span translate="no" lang="es">eon</span> = the dogging</li>
@@ -33,7 +33,7 @@ To make a noun about a verb, append a tense and a gender. E.g. TODO: linguistic 
 
 # Vocabulary
 
-## Gender suffixes
+## Noun suffixes
 - <span translate="no" lang="es">eon</span> = inanimate or male animal
 - <span translate="no" lang="es">ean</span> = female animal
 - <span translate="no" lang="es">an</span> = woman
