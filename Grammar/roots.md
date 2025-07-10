@@ -10,7 +10,7 @@ Roots are stacked like in germanic languages. E.g.
 - Balkeon learning = <span translate="no" lang="es">Balkeon</span> + <span translate="no" lang="es">lern</span> + ian
 
 ## Suffixation
-Roots can be static or dynamic, like "dog" or "love". However, by adding a suffix, you can convert every root into a noun, verb or both.
+Roots can be static or dynamic, like "dog" or "love". However, by adding a suffix, you can convert every root into a noun, verb or verbal noun.
 
 ## Vocabulary
 - The vocabulary section is [here](/Vocabulary/index.md).
