@@ -24,7 +24,7 @@ To make a verb, append a tense. E.g.
 </ul>
 
 ## Verbal nouns
-To make a noun about a verb, append a tense and a gender. E.g.
+To make a verbal noun, append both a tense and a noun suffix. E.g.
 <ul>
   <li><span translate="no" lang="es">am</span> + <span translate="no" lang="es">ir</span> + <span translate="no" lang="es">eon</span> = the loving</li>
   <li><span translate="no" lang="es">dog</span> + <span translate="no" lang="es">ir</span> + <span translate="no" lang="es">eon</span> = the dogging</li>
@@ -36,8 +36,8 @@ To make a noun about a verb, append a tense and a gender. E.g.
 ## Noun suffixes
 - <span translate="no" lang="es">eon</span> = inanimate or male animal
 - <span translate="no" lang="es">ean</span> = female animal
-- <span translate="no" lang="es">an</span> = woman
 - <span translate="no" lang="es">on</span> = man
+- <span translate="no" lang="es">an</span> = woman
 - <span translate="no" lang="es">aon</span> = woman or man
 - <span translate="no" lang="es">u</span> = deductive
 
