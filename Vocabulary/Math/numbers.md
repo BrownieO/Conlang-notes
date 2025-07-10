@@ -34,5 +34,5 @@ Example: 2024 = kuar chostek chosmiri
 ## Suffixes
 Suffixes go in the rightmost digit.
 - Cardinal numbers have no suffix.
-- The ordinal suffix is "yem" or "esim". Adjetivation also works.
+- The ordinal suffixes are "yem", "esim", "ideon" or "idu".
 - The fractional suffix is "ake". First, write the nominator and denominator separately. Then, append the suffix to the denominator.
