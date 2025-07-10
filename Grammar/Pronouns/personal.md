@@ -1,6 +1,7 @@
 ---
-description: The personal pronouns are: a gender for 3rd person, "yu" for 2nd and "ay" + gender for 1st. You can prepend an S for plurality.
+description: The personal pronouns are; a gender for 3rd person, "yu" for 2nd and "ay" + gender for 1st. You can prepend an S for plurality.
 ---
+
 # Personal pronouns
 Personal pronouns can replace any noun.
 
