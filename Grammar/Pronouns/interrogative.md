@@ -39,3 +39,5 @@ In Balkeon, the "wh-" questions are:
       </tr>
    </tbody>
 </table>
+
+Examples of affixation are available at [MetroMan's website](https://metromansr.github.io/MetroWeb/en/balkeon/docs/sentencewords/#interrogative-pronouns).
