@@ -9,4 +9,4 @@ Those are named by their wavelength. E.g.:
 - ultraviolet = onkraimoraskeon
 
 ## Particle radiation (Ipaneon)
-This consists of fast subatomic particles...
+This consists of fast subatomic particles. Materials with unstable nuclei are labelled "radioactive" (ipangideon), and they commonly emit alpha, beta and gamma particles.
