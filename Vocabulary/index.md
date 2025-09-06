@@ -22,10 +22,10 @@
 - [Plant parts](/Science/plant-parts.md)
 - [Elements↗](https://metromansr.github.io/MetroWeb/balkeon/docs/chemicalelements/) (In Spanish, at MetroMan's website)
 - [Celestial bodies](/Science/celestial.md)
-- Machines
+- [Machines](Science/machines.md)
+- [Computers](Science/computers.md)
 - [Radiation](Science/radiation.md)
 
 ## Social
 - [Regions](/Social/regions.md)
 - [Politics](/Social/politics.md)
-
