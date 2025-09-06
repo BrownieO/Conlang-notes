@@ -1,7 +1,93 @@
-# Body parts
+# Anatomy
+## External
 <figure>
   <a href="https://brownieo.github.io/Balkeon-notes/Vocabulary/Science/body-parts.svg">
     <img alt="Human figures with their external parts labelled." src="https://brownieo.github.io/Balkeon-notes/Vocabulary/Science/body-parts.svg" width="80%" style="background-color:silver;">
   </a>
-  <figcaption>External anatomy of humans.</figcaption>
+  <figcaption>
+    <p>This image names the external anatomy of the human body.</p>
+    <details>
+      <summary>Values</summary>
+      <table>
+    <thead>
+        <tr>
+            <th>English</th>
+            <th>Balkeon</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Head</td>
+            <td>Kapeon</td>
+        </tr>
+        <tr>
+            <td>
+                <div>Hair</div>
+            </td>
+            <td>Harupeon</td>
+        </tr>
+        <tr>
+            <td>Torso</td>
+            <td>Dotayeon</td>
+        </tr>
+        <tr>
+            <td>Breasts</td>
+            <td>Brestseon</td>
+        </tr>
+        <tr>
+            <td>Arm</td>
+            <td>Lengeon</td>
+        </tr>
+        <tr>
+            <td>Hand</td>
+            <td>Haneon</td>
+        </tr>
+        <tr>
+            <td>Vagina</td>
+            <td>Bagneon</td>
+        </tr>
+        <tr>
+            <td>Leg</td>
+            <td>Perneon</td>
+        </tr>
+        <tr>
+            <td>Foot</td>
+            <td>Pideon</td>
+        </tr>
+        <tr>
+            <td>Eye</td>
+            <td>Okuleon</td>
+        </tr>
+        <tr>
+            <td>Nose</td>
+            <td>Naseon</td>
+        </tr>
+        <tr>
+            <td>Mouth</td>
+            <td>Oyameon</td>
+        </tr>
+        <tr>
+            <td>Fingers</td>
+            <td>Yubseon</td>
+        </tr>
+        <tr>
+            <td>Thumb</td>
+            <td>Fedolsumyubeon</td>
+        </tr>
+        <tr>
+            <td>Belly</td>
+            <td>Chiboteon</td>
+        </tr>
+        <tr>
+            <td>Penis</td>
+            <td>Penseon</td>
+        </tr>
+        <tr>
+            <td>Knee</td>
+            <td>Roteleon</td>
+        </tr>
+    </tbody>
+</table>
+</details>
+  </figcaption>
 </figure>
