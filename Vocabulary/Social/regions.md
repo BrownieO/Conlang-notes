@@ -13,10 +13,19 @@ Continents are the major landmasses. To form their name, append "en" to their Gr
 - Australia = Ostralien.
 - Oceania = Haiyanen.
 
+## Oceans
+Same as the continents, but append "idu" instead. I.e.
+
+- Pacific = Pasifikidu
+- Atlantic = Atlantikidu
+- Indian = Indidu
+- Antarctic = Antartikidu
+- Arctic = Artikidu
+
 ## Countries (Pasneon)
 Countries are smaller political units. To form their name, append "en" to their endonym or an exonym. E.g.
 
-- China = Zhonguayen
+- China = Chonguayen
 - Russia = Rasien
 - Germany = Doishpasnen
 - South Korea = Surhanguken
@@ -29,4 +38,4 @@ Countries are smaller political units. To form their name, append "en" to their 
 - Soviet Union = Sobietuaningen
 - United Emirates = Uananarabimaratsen
 - United States = Uananehtatsen
-- United Kingdom = Uananroyeon
+- United Kingdom = Uananroyen
