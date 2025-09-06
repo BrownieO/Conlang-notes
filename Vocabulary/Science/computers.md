@@ -5,3 +5,8 @@ Computation is a mathematical IO process. Below are lists of related terms.
 - finite-state machine = limitidu elfakteon
 - pushdown automaton = [stack]elfakteon
 - Turing machine = Turingmachineon
+
+## Hardware
+- processor = teyinatseon
+- memory = memoratseon
+- storage = hosonatseon
