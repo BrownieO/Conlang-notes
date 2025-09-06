@@ -27,3 +27,4 @@ Sometimes, a state deems an action on other state beneficial. Actions include:
 - commerce = ureon
 ### Territorial
 - union = uaningeon
+- independization = elichonadasneon
