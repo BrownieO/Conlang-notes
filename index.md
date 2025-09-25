@@ -1,4 +1,4 @@
 # Conlang notes
-Welcome to the conlang notes website. To read the notes about one of the conlangs, click a link.
+Welcome to this website. Here, you will find short notes about two new conlangs from Discord:
 1. [Balkeon](Balkeon/index.md)
-2. Lexavelo (WIP)
+2. [Lexavelo](Lexavelo/index.md) (WIP)
