@@ -1,2 +1,2 @@
-# Balkeon-notes
-This is a summary of the conlang created by MetroMan.
+# conlang-notes
+Here you will find short notes about two new conlangs from Discord.
