@@ -5,12 +5,12 @@
 
 In this page, we'll see the some facts and the few official statements about this conlang.
 
-# Alphabet
+## Alphabet
 The Lexávelo language uses the full Spanish alphabet, plus the rare letters Á and É. The following letters are known to be different:
 - Á = /ahe/
 - C, K, Q = /k/
 
-# Grammar
+## Grammar
 The language uses the English grammar, with the following known differences:
 - No grammatical gender
 - No inflection
@@ -19,12 +19,12 @@ The language uses the English grammar, with the following known differences:
 - No closed compound words
 - Head-initial word order
 
-# Vocabulary
+## Vocabulary
 No dictionary has been released, but the word count is estimated to be at 2,000 and is growing indefinitely.
 
 The vocabulary is drawn from "Romance languages, Greek, Dutch, Swedish, And few Czech, and a bit Arabic, and Etc". This scope has inflated to include all of Eurasia and even other conlangs.
 
-# Sample text
+## Sample text - Nostra Fader
 <p>
 Nosta Fader, kien arte en palaizo,<br>
 Sanktul sel vu namne.<br>
