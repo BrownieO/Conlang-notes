@@ -7,4 +7,6 @@ In this page, I'll try to document his linguistic choices.
 
 # Phonology
 ## Alphabet
-Lexávelo uses the full Latin alphabet, plus the rare letters Á and É.
+Lexávelo uses the full Spanish alphabet, plus the rare letters Á and É. The following letters are known to be different:
+- Á = /ahe/
+- C, K, Q = /k/
