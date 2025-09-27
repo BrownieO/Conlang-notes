@@ -20,9 +20,9 @@ The language uses the English grammar, with the following known differences:
 - Head-initial word order
 
 # Vocabulary
-No dictionary has been released, but the word count is estimated at 2,000 and growing indefinitely.
+No dictionary has been released, but the word count is estimated to be at 2,000 and is growing indefinitely.
 
-The vocabulary is drawn from "Romance languages, Greek, Dutch, Swedish, And few Czech, and a bit Arabic, and Etc". The scope has inflated to include all of Eurasia and even other conlangs.
+The vocabulary is drawn from "Romance languages, Greek, Dutch, Swedish, And few Czech, and a bit Arabic, and Etc". This scope has inflated to include all of Eurasia and even other conlangs.
 
 # Sample text
 <p>
