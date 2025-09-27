@@ -8,7 +8,6 @@ In this page, we'll see the some facts and the few official statements about thi
 ## Alphabet
 The Lexávelo language uses the full Spanish alphabet, plus the rare letters Á and É. The following letters are known to be different:
 - Á = /ahe/
-- Q = /k/
 
 ## Grammar
 This auxlang uses the English grammar, with the following known differences:
