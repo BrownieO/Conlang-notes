@@ -3,10 +3,10 @@
 ## Introduction
 [Léxavelo](https://youtube.com/@Lexavelo-language-commitee) is a project being run by Classicuscool. He is an Asian student and gamer who speaks English and Spanish adequately. His goal is to create a community based on his first auxlang.
 
-In this page, we'll see some facts and the few official statements about this conlang.
+In this page, we'll see the some facts and the few official statements about this conlang.
 
 # Alphabet
-Lexávelo uses the full Spanish alphabet, plus the rare letters Á and É. The following letters are known to be different:
+The Lexávelo language uses the full Spanish alphabet, plus the rare letters Á and É. The following letters are known to be different:
 - Á = /ahe/
 - C, K, Q = /k/
 
