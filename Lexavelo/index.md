@@ -1,7 +1,7 @@
 # Lexávelo
 
 ## Introduction
-[Léxavelo](https://youtube.com/@Lexavelo-language-commitee) is a project being run by Classicuscool. He is an Asian student and gamer who speaks English and Spanish adequately. His goal is to create a community based on his first auxlang.
+[Léxavelo](https://youtube.com/@Lexavelo-language-commitee) is a project being run by Classicuscool. He is an Asian student and gamer who also speaks English and Spanish adequately. His goal is to create a community based on his first auxlang.
 
 In this page, we'll see the some facts and the few official statements about this conlang.
 
