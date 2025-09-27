@@ -1,6 +1,6 @@
 # Balkeon
 ## Introduction
-Balkeon is a conlang created by MetroMan, a Chilean translator, amateur artist and worker at Metro. He grew dissatisfied with Esperanto. Thus, he aimed for a Babelian language. And now, he has managed to get two speakers.
+Balkeon is a conlang created by MetroMan, a Chilean translator, amateur artist and worker at Metro. He grew dissatisfied with Esperanto, thus he aimed for a Babelian language. As of now, he has managed to get two speakers.
 
 The full breakdown will be available at [MetroMan's website](https://www.metroman.me/). In the meantime, you can access the contents below.
 
@@ -14,3 +14,4 @@ The full breakdown will be available at [MetroMan's website](https://www.metroma
 - [Grammar](Grammar/index.md)
 - [Vocabulary](Vocabulary/index.md)
 - [Sample texts](Literature/index.md)
+
