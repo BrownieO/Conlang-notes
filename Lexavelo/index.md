@@ -1,5 +1,6 @@
 # Lexávelo
 <img src="https://static.wikia.nocookie.net/lexavelo/images/b/bd/Lexavelo_logo1%3Bjpeg.jpg/revision/latest" alt = "Coat of arms of the project" height = 50%>
+
 ## Introduction
 [Léxavelo](https://youtube.com/@Lexavelo-language-commitee) is a project being run by Classicuscool. He is an Asian student and gamer who also speaks English and Spanish adequately. His goal is to create a community based on his first auxlang, but neither exists yet. We'll still track the progress of this project here.
 
