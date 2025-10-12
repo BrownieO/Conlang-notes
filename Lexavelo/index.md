@@ -1,5 +1,5 @@
 # Lexávelo
-![Coat of arms of the project](https://static.wikia.nocookie.net/lexavelo/images/b/bd/Lexavelo_logo1%3Bjpeg.jpg/revision/latest?cb=20250610125106)
+![Coat of arms of the project](./Lexavelo_logo1.jpg)
 
 ## Introduction
 The [Léxavelo](https://youtube.com/@Lexavelo-language-commitee) project is a closed community where the creator speaks in an English-based cant. His long-term goal is to open this community and develop the identity around a fully fledged auxlang.
