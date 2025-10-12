@@ -8,10 +8,10 @@ The [Léxavelo](https://youtube.com/@Lexavelo-language-commitee) project is a cl
 The project is being run by Classicuscool. He is an Asian student and gamer who also speaks English and Spanish adequately.
 
 ## Alphabet
-Lexávelo uses the full Spanish alphabet, plus the rare letters Á and É.
+Lexávelo uses the full Spanish alphabet, plus the rare letters Á and É. The accented Á of Lexávelo is to make the name unique.
 
 ## Grammar
-The language uses the English grammar, with the following known differences:
+The grammar of English is being used, with the following known differences:
 
 - Head-initial word order
 - No grammatical gender
