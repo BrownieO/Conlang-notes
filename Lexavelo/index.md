@@ -22,7 +22,7 @@ The grammar of English is being used, with the following known differences:
 ### Example: Tense
 - Future: prepend the word "sera"
 - Present: prepend the word "aola"
-- Future: inflect the verb arbitrarily
+- Past: inflect the verb arbitrarily
 
 ## Vocabulary
 There's no dictionary. Instead, the creator relies on his memory. Still, he has posted around 2000 unique words.
