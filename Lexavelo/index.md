@@ -2,16 +2,16 @@
 ![Coat of arms of the project](./Lexavelo_logo1.jpg)
 
 ## Introduction
-The [Léxavelo](https://youtube.com/@Lexavelo-language-commitee) project is a closed community where the creator speaks in an English-based cant. His long-term goal is to open this community and develop the identity around a fully fledged auxlang.
+The [Léxavelo](https://youtube.com/@Lexavelo-language-commitee) project is a closed community where the creator spoke in an English-based cant. His long-term goal is to open this community and develop its identity around a fully fledged auxlang.
 
 ### People
 The project is being run by Classicuscool. He is an Asian student and gamer who also speaks English and Spanish adequately.
 
 ## Alphabet
-Lexávelo uses the full Spanish alphabet, plus the rare letters Á and É. The accented Á of Lexávelo is to make the name unique.
+Lexávelo used the full Spanish alphabet, plus the rare letters Á and É. The accented Á of Lexávelo is to make the name unique.
 
 ## Grammar
-The grammar of English is being used, with the following known differences:
+The grammar of English was used, with the following known differences:
 
 - Head-initial word order
 - No grammatical gender
@@ -22,9 +22,8 @@ The grammar of English is being used, with the following known differences:
 ### Example: Tense
 - Future: prepend the word "sera"
 - Present: prepend the word "aola"
-- Past: inflect the verb arbitrarily
+- Past: prepend the word "var"
 
 ## Vocabulary
-There's no dictionary. Instead, the creator relies on his memory. Still, he has posted around 2000 unique words.
-
-The vocabulary is drawn to taste from "Romance languages, Greek, Dutch, Swedish, and few Czech, and a bit Arabic, and etc". It also includes all of Eurasia and even other conlangs.
+There's no official vocabulary yet. Still, the creator has experimented with around 2000 unique words.
+The vocabulary will be drawn from "Romance languages, Greek, Dutch, Swedish, and few Czech, and a bit Arabic, and etc.
